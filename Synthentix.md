@@ -98,7 +98,7 @@ In summary, the `CollateralManager` contract na combination of different functio
 
 ### CONSTANT STATE VARIABLES.
 
-in Solidity, the state variables declared outside functions are, by default, immutable once they are assigned a value. This means that, once a value is assigned to a state variable, it cannot be changed.
+In Solidity, the state variables declared outside functions are, by default, immutable once they are assigned a value. This means that, once a value is assigned to a state variable, it cannot be changed.
 
 PIGIN(TRANSLATION):
 
