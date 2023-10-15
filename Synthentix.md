@@ -1,20 +1,20 @@
 ## DOCUMENTS PROPERTIES
-## **CLIENT:SYNTENTIX**
+## **CLIENT: SYNTENTIX**
 
 ***
-TITLE:Smart contract Audit.
+TITLE: SMART CONTRACT REVIEW.
 
-TARGET:SYNTHENTIX TOKEN 
+TARGET: SYNTHENTIX TOKEN 
 
-AUTHOR:Emmanuel Ekundayo Agbaje
+AUTHOR: Emmanuel Ekundayo Agbaje
 
-## AUTHOR BIO.
+## AUTHOR BIO
 
 I am Emmanuel Agbaje a seasoned smart contract developer with years of managerial experience, based in Nigeria.
 
 ***
 
-## AUDIT REPORT.
+## REVIEW REPORT
 ###
 
 ### Welcome to Synthentix (SNX).
