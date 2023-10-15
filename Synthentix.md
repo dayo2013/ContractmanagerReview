@@ -20,7 +20,7 @@ I am Emmanuel Agbaje a seasoned smart contract developer with years of manageria
 ### Welcome to Synthentix (SNX).
 Synthetix is a decentralized liquidity provisioning protocol built on Ethereum and Optimistic Ethereum (a layer two scaling solution built on Ethereum). Synthetic assets, and associated products, are collateralized by stakers via Synthetix Network Token (SNX), which when locked in a staking contract enables the issuance of synthetic assets (synths). This pooled collateral model allows users to perform conversions between synths directly with the smart contract, avoiding the need for counterparties. This mechanism solves the liquidity and slippage issues experienced by DEXs.
 
-### pigin Nigeria version:
+### PIGIN Nigeria version:
 Synthetix na descentralized liquidity where dey dem make em on etheruem and optimistic protocol.sythentix they offer user where go stake with dem a collateral service for there token (snx) with this platform user if come convert there synths directly with smart contract.you no go need any third parties you go run your conversion without wahala.this method dey solve meta of liquidity and slippage wahala of dex.
 
  [synthetix.io](https://www.synthetix.io/)
