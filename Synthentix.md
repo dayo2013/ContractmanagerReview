@@ -206,7 +206,7 @@ PIGIN(TRANSLATION):
  Dis function dey designed to return one set of addresses.".
 
 
-  function isSynthManaged() function checks whether a synthetic asset (synth) with a given currencyKey is managed within the contract.
+  function isSynthManaged() function checks whether a synthetix asset (synth) with a given currencyKey is managed within the contract.
 
   PIGIN(TRANSLATION)
 
@@ -224,11 +224,11 @@ PIGIN(TRANSLATION):
 
    "E make sure say di address wey dey connect with di CONTRACT_EXRATES identifier dey available, an e bring back one example of IExchangeRates.
 
-   function _synth() It ensures that the address associated with a specific synthetic asset (identified by synthName) is available, and it returns an instance of the ISynth interface for further interactions. 
+   function _synth() It ensures that the address associated with a specific synthetix asset (identified by synthName) is available, and it returns an instance of the ISynth interface for further interactions. 
 
    PIGIN(TRANSLATION)
 
-   "Dis function, wey dem call _synth(bytes32 synthName), na inside helper function for di contract. E dey make sure say di address wey connect with di particular synthetic asset wey dem call synthName dey available, and e bring back one example of ISynth.".
+   "Dis function, wey dem call _synth(bytes32 synthName), na inside helper function for di contract. E dey make sure say di address wey connect with di particular synthetix asset wey dem call synthName dey available, and e bring back one example of ISynth.".
 
    function hasCollateral() function checks if a specific collateral address is present in the _collaterals collection and returns true if it is, and false
 
@@ -252,7 +252,7 @@ function short() function retrieves and returns the amount associated with a spe
 
 PIGIN(TRANSLATION)
 
-Function collect and return the money with special synthetic asset for short position.
+Function collect and return the money with special synthetix asset for short position.
 
  function totalLong() totalLong function calculates the total long value in sUSD, considering the long values of different synthetix assets and their exchange rates. It also checks if any of the exchange rates are invalid.
 
@@ -282,7 +282,7 @@ Function calculate d total short value in sUSD, but dey consider the short value
    function getShortRate() function calculates the short rate for a synthetix asset, taking into account the supply on both the long and short sides of the market, enforcing a skew limit, and considering the base short rate.
 
    PIGIN(TRANSLATION)
-   Function calculate d short rate for sythentix asset.joining the supply on both d long and short sidee.
+   Function calculate d short rate for sythentix asset.joining the supply on both d long and short side.
 function getRatesAndTime()  function is a view function that allows external callers to retrieve information about rates and the last update time at a specific index.
 
 PIGIN(TRANSLTION)
@@ -319,7 +319,7 @@ Function dey help view outside contract so the contract go get info last update.
      function setBaseBorrowRate() function allows the owner of the contract to set a new base borrowing rate value. It updates the state variable baseBorrowRate with the provided value and emits an event to log the update. The onlyOwner
 
      PIGIN(TRANSLATION)
-     Function all the owner to set new base borrowing rate value e want.
+     Function allow the owner to set new base borrowing rate value e want.
 
        function setBaseShortRate()
        function allows the owner of the contract to set a new base short rate value. It updates the state variable baseShortRate with the provided value and emits an event to log the update. The onlyOwner 
